@@ -1,0 +1,1 @@
+Create this project for practice , and for better understanding of Angular and .net core and Sql Server.
